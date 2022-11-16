@@ -1,0 +1,23 @@
+
+  - id: "e72b-4c3f-f0c8"
+    web:
+      metaDescription: "Zesty.io Layouts Examples and Usage. Experience full layout control in a headless CMS."
+      metaTitle: "Layouts Example"
+      metaLinkText: "Layouts Example"
+      metaKeywords: null
+      pathPart: "layouts"
+      path: "/layouts/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      external_url: "https://www.youtube.com/watch?v=4P-nTNfZw5w"
+      image: "https://pt9nc6rn.media.zestyio.com/flat-leaf-parsley.jpg"
+      image_wide: "https://pt9nc6rn.media.zestyio.com/beach-sea-coast-rock-ocean-horizon.jpg"
+      rich_text: "<p>Rich Text example for <strong>Layouts. </strong>Learn more about the layouts in the youtube video.&nbsp;&nbsp;</p>"
+      title: "Layouts Example Title Text"

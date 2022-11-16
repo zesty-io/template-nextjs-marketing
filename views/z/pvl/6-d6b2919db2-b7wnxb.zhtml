@@ -1,0 +1,13 @@
+<div className={styles.pvlRoot}>
+	<h1 class="pvlHeader">{{layouts.first().title}}</h1>
+	<hr>
+	<div style="display:flex">
+		<div style="flex:2" className={styles.pvlColumn}>
+			<div class="pvlRichtext">{{layouts.first().rich_text}}</div>
+		</div>
+		<div style="flex:4" className={styles.pvlColumn}>
+			<img src="{{layouts.first().image.getImage()}}" alt="@" width="100%" />
+		</div>
+	</div>
+	<hr>
+</div>

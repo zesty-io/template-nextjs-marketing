@@ -1,0 +1,11 @@
+<div className={styles.pvlRoot}>
+	<h1 class="pvlHeader">{{personalization.first().title}}</h1>
+	<div style="display:flex" className={styles.pvlRow}>
+		<div className={styles.pvlColumn}>
+			<div class="pvlRichtext">{{personalization.first().description}}</div>
+		</div>
+		<div className={styles.pvlColumn}>
+			<img src="{{personalization.first().image.getImage()}}" alt="@" width="100%" />
+		</div>
+	</div>
+</div>

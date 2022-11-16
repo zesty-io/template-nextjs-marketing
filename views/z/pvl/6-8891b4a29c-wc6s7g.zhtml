@@ -1,0 +1,4 @@
+<div className={styles.pvlRoot}>
+	<h1 class="pvlHeader">{{homepage.first().title}}</h1>
+	<div class="pvlRichtext">{{homepage.first().content}}</div>
+</div>

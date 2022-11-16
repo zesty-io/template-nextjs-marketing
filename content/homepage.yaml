@@ -1,0 +1,21 @@
+
+  - id: "8915-ec05-56c8"
+    web:
+      metaDescription: "dec"
+      metaTitle: "title"
+      metaLinkText: "Homepage"
+      metaKeywords: "123"
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      content: "<p>Using Next.js 12 to run A/B Testing, Personalization Example. Layouts, and More....</p>"
+      image: "https://pt9nc6rn.media.zestyio.com/beach-sea-coast-rock-ocean-horizon.jpg"
+      title: "Marketing Technology Examples"

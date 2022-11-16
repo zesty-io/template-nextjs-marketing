@@ -1,0 +1,64 @@
+
+  - id: "f855-08dc-1b1b"
+    web:
+      metaDescription: "As with many other foods, basic hot sauce preferences seem to be dialed in formative years&mdash;what you grow up with becomes the standard by which others are "
+      metaTitle: "Hot Sauce!"
+      metaLinkText: "Hot Sauce!"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      content: "<p>As with many other foods, basic hot sauce preferences seem to be dialed in formative years&mdash;what you grow up with becomes the standard by which others are compared. Regional pride plays a role, too. Louisiana-made Tabasco proved to be the most-recommended sauce overall. Of twenty chefs, four chose it as their number-one pick and four as their second choice. Of the chefs who picked Tabasco in their top two, half hail from Louisiana.&nbsp;</p>"
+      image: "https://pt9nc6rn.media.zestyio.com/hot-sauce.jpg"
+      title: "Hot Sauce!"
+      utm_campaign: "hot_sauce"
+  - id: "1596-0742-064b"
+    web:
+      metaDescription: "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed residamus, inquit, si placet. Philosophi autem in suis lectulis plerumque moriuntur. Utrum igitur"
+      metaTitle: "Alternate Option 2"
+      metaLinkText: "Alternate Option 2"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 106
+      listed: true
+    data:
+      content: "<div id=\"options\"></div>\n<div id=\"result\">\n<h2><span style=\"font-size: 14px; font-weight: 400; letter-spacing: 0px;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed residamus, inquit, si placet. Philosophi autem in suis lectulis plerumque moriuntur. Utrum igitur tibi litteram videor an totas paginas commovere? </span><a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\" style=\"font-size: 14px; font-weight: 400; letter-spacing: 0px;\">Duo Reges: constructio interrete.</a><span style=\"font-size: 14px; font-weight: 400; letter-spacing: 0px;\">&nbsp;Quo modo autem optimum, si bonum praeterea nullum est? Graccho, eius fere, aequal&iacute;?&nbsp;Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus;&nbsp;Quod totum contra est.&nbsp;Iam in altera philosophiae parte.</span></h2>\n<div id=\"outputholder\">\n<p>Age, inquies, ista parva sunt.&nbsp;<a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Atqui reperies, inquit, in hoc quidem pertinacem;</a></p>\n</div>\n</div>"
+      image: "https://pt9nc6rn.media.zestyio.com/hot-peppers.jpg"
+      title: "Alternate Option 2"
+      utm_campaign: "alternate_2"
+  - id: "aca7-bf0e-1655"
+    web:
+      metaDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur id non ita fit? Cui Tubuli nomen odio non est?\nDuo Reges: constructio interrete. Non igitur bene. S"
+      metaTitle: "Alternate Option 1"
+      metaLinkText: "Alternate Option 1"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      content: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur id non ita fit? Cui Tubuli nomen odio non est?</p>\n<p>Duo Reges: constructio interrete. Non igitur bene. Si quicquam extra virtutem habeatur in bonis.&nbsp;<mark>Nihilo beatiorem esse Metellum quam Regulum.</mark></p>\n<p>Quis Aristidem non mortuum diligit? Quid ad utilitatem tantae pecuniae? Aperiendum est igitur, quid sit voluptas;&nbsp;Restatis igitur vos;&nbsp;<a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Quae est igitur causa istarum angustiarum?</a>&nbsp;Dat enim intervalla et relaxat.</p>"
+      image: "https://pt9nc6rn.media.zestyio.com/flat-leaf-parsley.jpg"
+      title: "Alternate Option 1"
+      utm_campaign: "alternate_1"
