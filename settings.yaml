@@ -197,96 +197,6 @@
     dataType: "checkbox"
     options: "0,1"
     tips: "If you turn on Display Advertising, you need to enable Re-marketing with Google Analytics or Google Display Network (GDN) Impression Reporting. With this setting on the Analytics tracking code is updated. Once you have made that change, Google Analytics collects the information it normally does, as well as the DoubleClick cookie when that cookie is present."
-  - category: "twitter"
-    key: "CONSUMER_KEY"
-    keyFriendly: "Consumer Key"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://dev.twitter.com/apps/new"
-  - category: "twitter"
-    key: "CONSUMER_SECRET"
-    keyFriendly: "Consumer Secret"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://dev.twitter.com/apps/new"
-  - category: "twitter"
-    key: "OAUTH_TOKEN"
-    keyFriendly: "OAuth Token"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://dev.twitter.com/apps/new"
-  - category: "twitter"
-    key: "TOKEN_SECRET"
-    keyFriendly: "Token Secret"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://dev.twitter.com/apps/new"
-  - category: "stripe"
-    key: "LIVE_MODE"
-    keyFriendly: "Store is Live (green if yes)"
-    value: "0"
-    admin: null
-    parsleyAccess: true
-    dataType: "checkbox"
-    options: "0,1"
-    tips: "Toggle test mode for stripe"
-  - category: "stripe"
-    key: "TEST_SECRET_KEY"
-    keyFriendly: "Stripe Private Test Key"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://stripe.com under account settings"
-  - category: "stripe"
-    key: "LIVE_SECRET_KEY"
-    keyFriendly: "Stripe Private Live Key"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://stripe.com under account settings"
-  - category: "stripe"
-    key: "TEST_PUBLISH_KEY"
-    keyFriendly: "Stripe Publish Test Key"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://stripe.com under account settings"
-  - category: "stripe"
-    key: "LIVE_PUBLISH_KEY"
-    keyFriendly: "Stripe Publish Live Key"
-    value: ""
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Attain for your domain from https://stripe.com under account settings"
-  - category: "seo"
-    key: "canonical_tags_enabled"
-    keyFriendly: "Enable Canonical Tags"
-    value: "1"
-    admin: null
-    parsleyAccess: null
-    dataType: "checkbox"
-    options: "0,1"
-    tips: ""
   - category: "general"
     key: "mode"
     keyFriendly: "WebEngine Mode"
@@ -323,15 +233,6 @@
     dataType: "checkbox"
     options: "0,1"
     tips: "If GA urchin settings are present, WebEngine will automatically include Google Analytics scripts if this setting is on."
-  - category: "security"
-    key: "preview_lock_password"
-    keyFriendly: "Preview Lock Password"
-    value: "f4ca1f"
-    admin: null
-    parsleyAccess: null
-    dataType: "text"
-    options: ""
-    tips: "Entering this password is an alternate way to view the webengine preview url without being logged in."
   - category: "security"
     key: "headless_authorization_key"
     keyFriendly: "Headless Endpoint Authorization Secret Key"
