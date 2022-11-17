@@ -1,5 +1,5 @@
 
-  - id: "48f7-14cc-17c8"
+  - id: "1174-98ae-9e6c"
     web:
       metaDescription: ""
       metaTitle: "Personalization"
@@ -18,6 +18,6 @@
     data:
       description: "<p>Personalization can be set up within Zesty by creating <strong>Headless Data Models</strong> called <strong>Personas </strong>which can have an entry per each of your user personas, each persona get a Zesty Unique ID (ZUID). From there any <strong>content item </strong>created in zesty can have a many to one field added to it that one to many is connected to your<em> persona model</em>. Now any content may then be tagged to a persona.<br /><br />Content is then fetched by a custom endpoint which takes the <em>zesty uinque identifer</em> as a parameter. The endpoint uses the <em>indentifier</em> to find and only return content tagged with that persona.</p>"
       image: "https://pt9nc6rn.media.zestyio.com/personalization-example.png"
-      personas_to_display: "1eca-36ab-9cdd,d955-2b6e-bb2a,937d-fd86-5574,98fe-f1fa-c5ac"
+      personas_to_display: "b3ec-4e3d-9af1,bab7-ca75-aa14,e839-a6d9-10f7,8265-117c-769f"
       title: "Personalization in Zesty"
       zesty_documentation: "<p><strong>Example Model for \"Personas\" in Zesty</strong></p>\n<p><strong><img src=\"https://pt9nc6rn.media.zestyio.com/persona-model-example.png\" data-id=\"3-ecf1e3c-ql2jtq\" title=\"persona-model-example.png\" alt=\"persona-model-example.png\" /></strong></p>\n<p><strong>Example Content Model \"Articles\" in Zesty&nbsp;</strong></p>\n<p><strong><img src=\"https://pt9nc6rn.media.zestyio.com/articles-tagged-with-personas.png\" data-id=\"3-ecf1e3c-61v7w9\" title=\"articles-tagged-with-personas.png\" alt=\"articles-tagged-with-personas.png\" /></strong></p>"
