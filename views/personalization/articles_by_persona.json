@@ -1,0 +1,10 @@
+{{$persona = empty}} 
+{{if {get_var.persona} }}
+{{$persona = {get_var.persona} }} 
+{{end-if}}
+[
+    {{each articles as article where find_in_set('{$persona}',article.targeted_personas) }}
+    {{article.toJSON()}}
+    {{if {article._length} != {article._num} }}, {{end-if}}
+    {{end-each}}
+]
