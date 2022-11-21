@@ -6,8 +6,5 @@
   "style-variables":"style-variables.yaml",
   "apps" : [
     "80-d8abaff6ef-wxs830" 
-  ],
-  "modules" : [
-    "https://github.com/zesty-io/module-blog" 
   ]
 }
